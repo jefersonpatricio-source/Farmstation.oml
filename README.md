@@ -1,8 +1,8 @@
-FarmStation Agri-Vet 2.0 System - ReadMe
-Overview
+🚜 FarmStation Agri-Vet 2.0 System - ReadMe
+📋 Overview
 This repository contains the complete published OutSystems application module (.oml file) for the FarmStation Agri-Vet 2.0 system. This module requires OutSystems Service Studio for deployment and management.
 
-System Information
+🏷️ System Information
 Application Name: FarmStation Agri-Vet 2.0
 
 Environment: OutSystems Cloud
@@ -11,7 +11,7 @@ Status: Published Version
 
 Module File: (Attached .oml file)
 
-Access Requirements
+🔑 Access Requirements
 1. Development Environment
 To modify or deploy this application, you need:
 
@@ -24,11 +24,11 @@ Username: Agrivetf@gmail.com
 
 Password: Capstone2
 
-Live Application Access
+🌐 Live Application Access
 Production Environment URL
 Main System: https://personal-uffbvrqd.outsystemscloud.com/FarmStationAgri_Vet2_0/
 
-Login Credentials
+👥 Login Credentials
 Administrator Account
 Username: admin_Farm
 
@@ -47,7 +47,7 @@ Access Level: Staff/Operator privileges
 
 Capabilities: Daily operations, data entry, and limited system functions
 
-Installation & Deployment Instructions
+⚙️ Installation & Deployment Instructions
 Prerequisites
 OutSystems Service Studio (latest version recommended)
 
@@ -72,22 +72,22 @@ Configure connections to required databases and services
 
 Run the application through Service Studio or access via the provided URL
 
-System Features
+🌟 System Features
 The FarmStation Agri-Vet 2.0 system includes:
 
-Livestock management and tracking
+🐄 Livestock management and tracking
 
-Veterinary services scheduling
+🩺 Veterinary services scheduling
 
-Inventory management for agricultural supplies
+📦 Inventory management for agricultural supplies
 
-Reporting and analytics dashboard
+📊 Reporting and analytics dashboard
 
-User management and role-based access control
+👤 User management and role-based access control
 
-Mobile-responsive interface
+📱 Mobile-responsive interface
 
-Support & Maintenance
+🛠️ Support & Maintenance
 For technical support or issues related to:
 
 Application functionality
@@ -100,7 +100,9 @@ Feature requests
 
 Please contact the development team or system administrator.
 
-Security Notes
+🔒 Security Notes
+⚠️ IMPORTANT SECURITY NOTICES
+
 Change default passwords immediately after first login
 
 Create individual user accounts for all staff members
@@ -111,21 +113,20 @@ Keep Service Studio credentials confidential
 
 Do not share the .oml file with unauthorized parties
 
-Version Information
+📅 Version Information
 Current Version: 2.0 (Published)
 
 File Type: OutSystems Module (.oml)
 
 Last Published: [Date of publication]
 
-Troubleshooting
-Cannot login to Service Studio: Verify credentials and internet connection
-
-Module import fails: Ensure correct OutSystems version compatibility
-
-Application errors after publishing: Check all dependencies and connections
-
-Access denied to live system: Verify user role and permissions
-
-Contact Information
+❓ Troubleshooting
+Common Issues & Solutions
+Issue	Solution
+Cannot login to Service Studio	Verify credentials and internet connection
+Module import fails	Ensure correct OutSystems version compatibility
+Application errors after publishing	Check all dependencies and connections
+Access denied to live system	Verify user role and permissions
+📞 Contact Information
 For additional support or questions regarding this system, please reach out to the development team.
+
